@@ -18,7 +18,7 @@ Exclusive and free event, promoted by Rocketseat for teaching WEB technologies.
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src="https://github.com/rodrigorgtic/explorer-lab-01/blob/main/.github/project.png" width="100%">
+  <img alt="rocketpay" src="https://user-images.githubusercontent.com/73675022/217669030-2e266171-fbb0-4a1f-98c5-230590cd7385.png" width="100%">
 </p>
 
 ## 🚀 Technologies
