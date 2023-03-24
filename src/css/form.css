@@ -48,7 +48,8 @@ form button {
   align-items: center;
   padding: 1.6rem 0;
 
-  background: #42d3ff;
+  background: #27ae60;
+  /* background: #42d3ff; */
   border-radius: 0.6rem;
 
   cursor: pointer;
