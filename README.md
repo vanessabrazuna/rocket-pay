@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab </h1>
+<h1 align="center"> Rocketpay </h1>
 
 <p align="center">
 Exclusive and free event, promoted by Rocketseat for teaching WEB technologies.
